@@ -31,5 +31,3 @@ create a variable based on this type that will contain the array [1, 2, 3, -1, -
 write a function with an arbitrary name, which takes one parameter with your custom type and checks if all elements of the array are greater than 0
 
 the function should return boolean data type true or false 
-
-Translated with www.DeepL.com/Translator (free version)
